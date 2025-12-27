@@ -1,5 +1,5 @@
 # 💫 About Me:
-📌 I’m currently working on content creation<br>👥 I’m looking to collaborate on software testing-related content creation<br>📌 I’m looking for help in building projects<br>🐍 I’m currently learning Python and working on Python-based projects<br>🎬 I have strong video/photo editing skills<br>💬 Ask me about automation testing<br>⚡ Fun fact - I am lazy but smart
+📌 I’m currently working on python projects<br>👥 I’m looking to collaborate on software testing-related content creation<br>📌 I’m looking for help in building projects<br>🐍 I’m currently learning Python and working on Python-based projects<br>🎬 I have strong video/photo editing skills<br>💬 Ask me about automation testing<br>⚡ Fun fact - I am lazy but smart
 
 
 ## 🌐 Socials:
